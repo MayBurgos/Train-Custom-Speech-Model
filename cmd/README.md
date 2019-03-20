@@ -15,7 +15,6 @@ The workflow is as follows:
 
 2. Add one or more corpus to the custom language model.  The corpora are plain text file consisting of sentences used in your particular domain, such as medical transcription.
    - add_corpus.py
-   - list_corpus.py
    - delete_corpus.py
 
 3. Train the custom language model
